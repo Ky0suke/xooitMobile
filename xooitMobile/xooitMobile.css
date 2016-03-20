@@ -1,0 +1,12 @@
+/**********************************************************************
+***
+***     XooitMobile theme version production 1
+***     Utilisez cette feuille de style pour personnaliser votre theme
+***
+**********************************************************************/
+
+/* Illustration affichée en haut de page */
+
+div#app-illustration {
+    background: url(http://img110.xooimage.com/files/e/1/f/wall-489609d_e1f0...38c7e0cd-48b3b22.png) no-repeat center;
+}
